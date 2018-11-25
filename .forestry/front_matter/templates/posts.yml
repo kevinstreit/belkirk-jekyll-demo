@@ -9,4 +9,4 @@ fields:
   hidden: false
   default: post
 pages:
-- _posts/a-test.md
+- _posts/2018-11-25-a-test.md
